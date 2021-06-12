@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.shanjupay.transaction.mapper.PlatformChannelMapper">
+<resultMap id="BaseMap" type="com.shanjupay.transaction.api.dto.PayChannelDTO">
+    <result column="ID" property="id"/>
+    <result column="CHANNEL_CODE" property="channelCode"/>
+    <result column="CHANNEL_NAME" property="channelName"/>
+</resultMap>
+<select id="selectPayChannelByPlatformChannel" resultMap="BaseMap" parameterType="string">
+    SELECT *
+    FROM pay_channel PL,
+    platform_pay_channel PPC,
+    PAY_CHANNEL PC
+    WHERE
+    PL.`CHANNEL_CODE`=PPC.`PAY_CHANNEL`
+    AND PPC.`PLATFORM_CHANNEL`=#{platformChannelCode}
+    AND PC.`CHANNEL_CODE`=PPC.`PAY_CHANNEL`
+</select>
+</mapper>

@@ -1,0 +1,97 @@
+package com.shanjupay.merchant.convert;
+
+import com.shanjupay.merchant.dto.MerchantDTO;
+import com.shanjupay.merchant.entity.Merchant;
+import java.util.ArrayList;
+import java.util.List;
+import javax.annotation.Generated;
+
+@Generated(
+    value = "org.mapstruct.ap.MappingProcessor",
+    date = "2021-05-30T23:04:54+0800",
+    comments = "version: 1.3.0.Final, compiler: javac, environment: Java 1.8.0_181 (Oracle Corporation)"
+)
+public class MerchantCovertImpl implements MerchantCovert {
+
+    @Override
+    public MerchantDTO entry2dto(Merchant merchant) {
+        if ( merchant == null ) {
+            return null;
+        }
+
+        MerchantDTO merchantDTO = new MerchantDTO();
+
+        merchantDTO.setId( merchant.getId() );
+        merchantDTO.setMerchantName( merchant.getMerchantName() );
+        if ( merchant.getMerchantNo() != null ) {
+            merchantDTO.setMerchantNo( String.valueOf( merchant.getMerchantNo() ) );
+        }
+        merchantDTO.setMerchantAddress( merchant.getMerchantAddress() );
+        merchantDTO.setMerchantType( merchant.getMerchantType() );
+        merchantDTO.setBusinessLicensesImg( merchant.getBusinessLicensesImg() );
+        merchantDTO.setIdCardFrontImg( merchant.getIdCardFrontImg() );
+        merchantDTO.setIdCardAfterImg( merchant.getIdCardAfterImg() );
+        merchantDTO.setUsername( merchant.getUsername() );
+        merchantDTO.setMobile( merchant.getMobile() );
+        merchantDTO.setContactsAddress( merchant.getContactsAddress() );
+        merchantDTO.setAuditStatus( merchant.getAuditStatus() );
+        merchantDTO.setTenantId( merchant.getTenantId() );
+
+        return merchantDTO;
+    }
+
+    @Override
+    public Merchant dto2entry(MerchantDTO merchantDTO) {
+        if ( merchantDTO == null ) {
+            return null;
+        }
+
+        Merchant merchant = new Merchant();
+
+        merchant.setId( merchantDTO.getId() );
+        merchant.setMerchantName( merchantDTO.getMerchantName() );
+        if ( merchantDTO.getMerchantNo() != null ) {
+            merchant.setMerchantNo( Long.parseLong( merchantDTO.getMerchantNo() ) );
+        }
+        merchant.setMerchantAddress( merchantDTO.getMerchantAddress() );
+        merchant.setMerchantType( merchantDTO.getMerchantType() );
+        merchant.setBusinessLicensesImg( merchantDTO.getBusinessLicensesImg() );
+        merchant.setIdCardFrontImg( merchantDTO.getIdCardFrontImg() );
+        merchant.setIdCardAfterImg( merchantDTO.getIdCardAfterImg() );
+        merchant.setUsername( merchantDTO.getUsername() );
+        merchant.setMobile( merchantDTO.getMobile() );
+        merchant.setContactsAddress( merchantDTO.getContactsAddress() );
+        merchant.setAuditStatus( merchantDTO.getAuditStatus() );
+        merchant.setTenantId( merchantDTO.getTenantId() );
+
+        return merchant;
+    }
+
+    @Override
+    public List<MerchantDTO> listEntry2dto(List<Merchant> merchants) {
+        if ( merchants == null ) {
+            return null;
+        }
+
+        List<MerchantDTO> list = new ArrayList<MerchantDTO>( merchants.size() );
+        for ( Merchant merchant : merchants ) {
+            list.add( entry2dto( merchant ) );
+        }
+
+        return list;
+    }
+
+    @Override
+    public List<Merchant> listDto2entry(List<MerchantDTO> merchantDTOS) {
+        if ( merchantDTOS == null ) {
+            return null;
+        }
+
+        List<Merchant> list = new ArrayList<Merchant>( merchantDTOS.size() );
+        for ( MerchantDTO merchantDTO : merchantDTOS ) {
+            list.add( dto2entry( merchantDTO ) );
+        }
+
+        return list;
+    }
+}

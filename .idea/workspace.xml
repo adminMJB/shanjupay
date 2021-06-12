@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af676df8-9b88-4e33-add3-e3037e2e5f86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="214" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="I:/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.3.9-bin\maven_repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sOLx7i3c3rX6dMQAhKsNmX0P0s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant-service/src/main/java/com/shanjupay/merchant/convert" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shanjupay-merchant-application/src/main/java/com/shanjupay/merchant/common/filter" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shanjupay.merchant.convert" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\shanjupay无分库分表\shanjupay\shanjupay-merchant-application\src\main\java\com\shanjupay\merchant\common\util" />
+      <recent name="I:\shanjupay无分库分表\shanjupay\shanjupay-merchant\shanjupay-merchant-service\src\main\java\com\shanjupay\merchant\convert" />
+      <recent name="I:\shanjupay无分库分表\shanjupay\shanjupay-transaction\shanjupay-transaction-service\src\main\java\com\shanjupay\transaction\common\util" />
+      <recent name="I:\shanjupay无分库分表\shanjupay\shanjupay-common\src\main\java\com\shanjupay\common\util" />
+      <recent name="I:\shanjupay无分库分表\shanjupay\shanjupay-merchant-application\src\test\java\com\shanjupay\merchant" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayBootstrap">
+    <configuration name="PhoneUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.common.util.PhoneUtil" />
+      <module name="shanjupay-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QiniuUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.common.util.QiniuUtils" />
+      <module name="shanjupay-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TokenTemp.createTestToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-merchant-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.merchant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shanjupay.merchant" />
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.merchant.TokenTemp" />
+      <option name="METHOD_NAME" value="createTestToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.gateway.GatewayBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-merchant-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.merchant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.merchant.MerchantApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-merchant-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.merchant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.merchant.MerchantBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-transaction-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.transaction.TransactionBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UAABootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-uaa-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.uaa.UAABootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.user.UserBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MerchantApplicationBootstrap" />
+        <item itemvalue="Spring Boot.MerchantBootstrap" />
+        <item itemvalue="JUnit.TokenTemp.createTestToken" />
+        <item itemvalue="Application.QiniuUtils" />
+        <item itemvalue="Application.PhoneUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af676df8-9b88-4e33-add3-e3037e2e5f86" name="Default Changelist" comment="" />
+      <created>1571122367193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571122367193</updated>
+      <workItem from="1571122368559" duration="2074000" />
+      <workItem from="1571187766500" duration="1006000" />
+      <workItem from="1574317695353" duration="577000" />
+      <workItem from="1574318311412" duration="682000" />
+      <workItem from="1574404354823" duration="998000" />
+      <workItem from="1620738934447" duration="3364000" />
+      <workItem from="1620781929096" duration="131000" />
+      <workItem from="1620782092218" duration="1308000" />
+      <workItem from="1620820106204" duration="1265000" />
+      <workItem from="1620821392703" duration="126000" />
+      <workItem from="1620823274679" duration="2738000" />
+      <workItem from="1620826366833" duration="1081000" />
+      <workItem from="1621146863585" duration="21101000" />
+      <workItem from="1621252928627" duration="6788000" />
+      <workItem from="1621310861843" duration="488000" />
+      <workItem from="1621314642577" duration="294000" />
+      <workItem from="1621339636485" duration="7234000" />
+      <workItem from="1621403093573" duration="540000" />
+      <workItem from="1621403656362" duration="43000" />
+      <workItem from="1621403724892" duration="109000" />
+      <workItem from="1621403863571" duration="1549000" />
+      <workItem from="1621427377524" duration="7918000" />
+      <workItem from="1621499963951" duration="6813000" />
+      <workItem from="1621516530772" duration="5618000" />
+      <workItem from="1621561157714" duration="5387000" />
+      <workItem from="1621600885765" duration="7987000" />
+      <workItem from="1621658171010" duration="37882000" />
+      <workItem from="1621829055510" duration="1702000" />
+      <workItem from="1621858190864" duration="6320000" />
+      <workItem from="1621918834882" duration="459000" />
+      <workItem from="1621951642635" duration="2435000" />
+      <workItem from="1622121001843" duration="4857000" />
+      <workItem from="1622299868362" duration="7851000" />
+      <workItem from="1622343212804" duration="11840000" />
+      <workItem from="1622388261660" duration="565000" />
+      <workItem from="1622988061204" duration="3040000" />
+      <workItem from="1623074212225" duration="885000" />
+      <workItem from="1623164820068" duration="206000" />
+      <workItem from="1623460585705" duration="3888000" />
+      <workItem from="1623475132575" duration="2842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="407" y="51" key="#GatewayBootstrap" timestamp="1622123218711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="51" key="#GatewayBootstrap/0.0.1536.824@0.0.1536.824" timestamp="1622123218711" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1621253791253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1621253791253" />
+    <state x="361" y="71" key="#SQL_Dialects" timestamp="1621953737761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1621953737761" />
+    <state x="361" y="71" key="#Scopes" timestamp="1622377610501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Scopes/0.0.1536.824@0.0.1536.824" timestamp="1622377610501" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621775821200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621775821200" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1623075160030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1623075160030" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621347403880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1621347403880" />
+    <state width="462" height="466" key="DebuggerActiveHint" timestamp="1621432250407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="462" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1621432250407" />
+    <state x="832" y="205" key="FileChooserDialogImpl" timestamp="1622379640823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="832" y="205" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622379640823" />
+    <state width="1493" height="363" key="GridCell.Tab.0.bottom" timestamp="1623500574745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623500574745" />
+    <state width="1493" height="363" key="GridCell.Tab.0.center" timestamp="1623500574745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1623500574745" />
+    <state width="1493" height="363" key="GridCell.Tab.0.left" timestamp="1623500574744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1623500574744" />
+    <state width="1493" height="363" key="GridCell.Tab.0.right" timestamp="1623500574745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1623500574745" />
+    <state width="1493" height="363" key="GridCell.Tab.1.bottom" timestamp="1623500574745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623500574745" />
+    <state width="1493" height="363" key="GridCell.Tab.1.center" timestamp="1623500574745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1623500574745" />
+    <state width="1493" height="363" key="GridCell.Tab.1.left" timestamp="1623500574745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1623500574745" />
+    <state width="1493" height="363" key="GridCell.Tab.1.right" timestamp="1623500574745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1623500574745" />
+    <state width="1493" height="363" key="GridCell.Tab.2.bottom" timestamp="1623500574745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623500574745" />
+    <state width="1493" height="363" key="GridCell.Tab.2.center" timestamp="1623500574745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1623500574745" />
+    <state width="1493" height="363" key="GridCell.Tab.2.left" timestamp="1623500574745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1623500574745" />
+    <state width="1493" height="363" key="GridCell.Tab.2.right" timestamp="1623500574745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="363" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1623500574745" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1621512160753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1621512160753" />
+    <state x="505" y="109" key="NewModule_or_Project.wizard" timestamp="1622379642312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="505" y="109" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1622379642312" />
+    <state x="272" y="57" width="1187" height="709" key="SettingsEditor" timestamp="1622379645642">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" width="1187" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622379645642" />
+    <state x="591" y="190" width="768" height="443" key="chooseDestDirectoryDialog" timestamp="1622382476312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="190" width="768" height="443" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1622382476312" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622989036926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1622989036926" />
+    <state x="321" y="148" width="894" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1622306670573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="321" y="148" width="894" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1622306670573" />
+    <state x="499" y="180" key="extract.method.dialog" timestamp="1621659233274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="180" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1621659233274" />
+    <state x="390" y="138" width="782" height="600" key="find.popup" timestamp="1623475877204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="390" y="138" width="782" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1623475877204" />
+    <state x="220" y="127" key="new project wizard" timestamp="1620823800891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="220" y="127" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1620823800891" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1621510292069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1621510292069" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1623075113271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1623075113271" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shanjupay_merchant$MerchantApplicationBootstrap.ic" NAME="MerchantApplicationBootstrap Coverage Results" MODIFIED="1621685030965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.shanjupay.merchant.*</FILTER>
+    </SUITE>
+  </component>
+</project>
